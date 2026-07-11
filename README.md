@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/kyogeshsagar/LeetCode_Practice_Ques/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/kyogeshsagar/LeetCode_Practice_Ques/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kyogeshsagar/LeetCode_Practice_Ques/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/kyogeshsagar/LeetCode_Practice_Ques/tree/master/0073-set-matrix-zeroes) |
@@ -35,5 +36,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/kyogeshsagar/LeetCode_Practice_Ques/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/kyogeshsagar/LeetCode_Practice_Ques/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
