@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/kyogeshsagar/LeetCode_Practice_Ques/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/kyogeshsagar/LeetCode_Practice_Ques/tree/master/0073-set-matrix-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/kyogeshsagar/LeetCode_Practice_Ques/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/kyogeshsagar/LeetCode_Practice_Ques/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/kyogeshsagar/LeetCode_Practice_Ques/tree/master/0048-rotate-image) |
 ## Simulation
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kyogeshsagar/LeetCode_Practice_Ques/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/kyogeshsagar/LeetCode_Practice_Ques/tree/master/0012-integer-to-roman) |
 ## Dynamic Programming
 |  |
 | ------- |
