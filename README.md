@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kyogeshsagar/LeetCode_Practice_Ques/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/kyogeshsagar/LeetCode_Practice_Ques/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/kyogeshsagar/LeetCode_Practice_Ques/tree/master/0020-valid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/kyogeshsagar/LeetCode_Practice_Ques/tree/master/0029-divide-two-integers) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/kyogeshsagar/LeetCode_Practice_Ques/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
